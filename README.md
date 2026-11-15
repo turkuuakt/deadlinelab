@@ -4,7 +4,7 @@
 
 ![Ekran görüntüsü](./screenshot.png)
 
-**Canlı demo:** _(Netlify/Vercel linkini buraya ekle)_
+**Canlı demo:** https://quiet-crisp-976fde.netlify.app/
 
 ## Özellikler
 - Ödev/proje ekleme (ad, ders, son teslim tarihi)
